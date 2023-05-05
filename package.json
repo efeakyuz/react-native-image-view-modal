@@ -39,7 +39,9 @@
   "keywords": [
     "react-native",
     "ios",
-    "android"
+    "android",
+    "image-viewer",
+    "image-modal"
   ],
   "repository": "https://github.com/efeakyuz/react-native-image-view-modal",
   "author": "Efe Akyuz <efenakyuz@gmail.com> (https://github.com/efeakyuz)",
